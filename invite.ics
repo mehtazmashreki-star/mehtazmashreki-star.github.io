@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:CANCEL
+BEGIN:VEVENT
+DTSTART:20261029T033000Z
+DTEND:20261029T040000Z
+DTSTAMP:20261028T183331Z
+ORGANIZER;CN=Michael Campbell:mailto:m.campbell@offensive-security.com
+UID:gsu1qk5jl8p73rii4h6t9853v4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ htazmashreki@gmail.com;X-NUM-GUESTS=0:mailto:mehtazmashreki@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Michae
+ l Campbell;X-NUM-GUESTS=0:mailto:m.campbell@offensive-security.com
+CREATED:20261028T182907Z
+DESCRIPTION:You have been invited to a Zoom meeting with m.campbell@offensi
+ ve-security.com at OffSec.\n\nAt the scheduled time\, please use the inform
+ ation below to join your meeting:\n\n\n\nI'm excited to connect!\n\n\n<hr s
+ tyle="border: 1px solid #ccc\;"><b>Questions & Answers:</b>\n\n<b>What is y
+ our name?</b>:\nMehtaz Mashreki\n\n<b>What would you like to discuss during
+  our meeting?</b>:\ncyber security\, ethical hacking \n\n<a href="https://a
+ pp.qualified.com/meetings/NtvLZL3F6tUNCrcre6y7FDGsYcLxBGWNT2QznoRZw9mrMiEoF
+ Dy87813S/reschedule" rel="nofollow">Reschedule or cancel</a> your meeting\n
+LAST-MODIFIED:20261028T183329Z
+LOCATION:
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:Meet with Michael Campbell (OffSec)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
